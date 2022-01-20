@@ -1,0 +1,1021 @@
+1642586610794	geckodriver	INFO	Listening on 127.0.0.1:57627
+1642586615211	mozrunner::runner	INFO	Running command: "C:\\P1642586620601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57632" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileSwLbLL"
+1642586621391	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: proxy-monitor: started
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 4
+console.log: WebExtensions: proxy-monitor:   http:104.129.24[Child 10044, MediaDecoderStateMachine #1] WARNING: 1ffcfa94660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 10044, MediaDecoderStateMachine #1] WARNING: 1ffd23c8200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642586760507	Marionette	INFO	Stopped listening on port 57637
+ed proxyInfo rid 5
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 8
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 8
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 9
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 9
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 9
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 9
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+DevTools listening on ws://localhost:57632/devtools/browser/d9ae4e88-5007-4be5-84a7-6eab03c859da
+1642586624446	Marionette	INFO	Listening on port 57691
+1642586624589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: proxy-monitor: stopped
+console.log: WebExtensions: proxy-monitor: started
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 11
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 11
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 14
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 14
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 15
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 15
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 16
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 16
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 17
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 17
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 5 status 200 tls false for https://content-signature-2.cdn.mozilla.net/chains/remote-settings.content-signature.mozilla.org-2022-02-09-08-32-01.chain
+console.log: WebExtensions: proxy-monitor: request event start rid 4 status 200 tls false for https://contile.services.mozilla.com/v1/tiles
+console.log: WebExtensions: proxy-monitor: request event start rid 9 status 101 tls false for https://push.services.mozilla.com/
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 18
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 18
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 8 status 200 tls false for https://shavar.services.mozilla.com/downloads?client=navclient-auto-ffox&appver=95.0&pver=2.2
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 19
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 19
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 20
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 20
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 25
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 25
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 11 status 200 tls false for https://incoming.telemetry.mozilla.org/submit/firefox-desktop/deletion-request/1/f38823bf-81d8-422d-9b15-97cd34dbff1b
+console.log: WebExtensions: proxy-monitor: request event start rid 19 status 200 tls true for https://tracking-protection.cdn.mozilla.net/ads-track-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 38
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 38
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 39
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 39
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 40
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 40
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 39 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-track-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 51
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 51
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 52
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 52
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 53
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 53
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 54
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 54
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 55
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 55
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 56
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 56
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 57
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 57
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 51 status 200 tls true for https://tracking-protection.cdn.mozilla.net/analytics-track-digest256/95.0/1637183081
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 64
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 64
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 72
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 72
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 73
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 73
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 76
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 76
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 77
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 77
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 97
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 97
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 64 status 200 tls true for https://tracking-protection.cdn.mozilla.net/content-track-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 103
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 103
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 103 status 200 tls true for https://tracking-protection.cdn.mozilla.net/mozstd-trackwhite-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 123
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 123
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 130
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 130
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 123 status 200 tls true for https://tracking-protection.cdn.mozilla.net/google-trackwhite-digest256/95.0/1637080483
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 2030 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 15696, MediaDecoderStateMachine #1] WARNING: 1bc4366a120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 162
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 162
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 162 status 200 tls true for https://tracking-protection.cdn.mozilla.net/allow-flashallow-digest256/1490633678
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 164
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 164
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 164 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flashallow-digest256/1490633678
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 166
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 166
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 166 status 200 tls true for https://tracking-protection.cdn.mozilla.net/block-flash-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 174
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 174
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 174 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flash-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 181
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 181
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 181 status 200 tls true for https://tracking-protection.cdn.mozilla.net/block-flashsubdoc-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 188
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 188
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 2795 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: proxy-monitor: request event start rid 188 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flashsubdoc-digest256/1517935265
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 193
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 193
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 193 status 200 tls true for https://tracking-protection.cdn.mozilla.net/base-fingerprinting-track-digest256/95.0/1637183081
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 194
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 194
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 194 status 200 tls true for https://tracking-protection.cdn.mozilla.net/base-cryptomining-track-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 195
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 195
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 195 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-facebook-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 196
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 196
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 196 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-linkedin-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 197
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 197
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 197 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-twitter-digest256/95.0/1637080483
+[Child 15696, MediaDecoderStateMachine #1] WARNING: 1bc445399e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642586775986	Marionette	INFO	Stopped listening on port 57691
+console.log: WebExtensions: proxy-monitor: stopped
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+pData\\Local\\Temp\\rust_mozprofilecGDkvB"
+1642586766275	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:57850/devtools/browser/a58f1de1-024b-4890-a789-34b7af23ecf8
+1642586767960	Marionette	INFO	Listening on port 57855
+1642586768100	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 2416, MediaDecoderStateMachine #1] WARNING: 1ecc9a64580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2416, MediaDecoderStateMachine #1] WARNING: 1ecc9ae5820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2416, MediaDecoderStateMachine #1] WARNING: 1ecc9a64e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2416, MediaDecoderStateMachine #1] WARNING: 1ecc9a64740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2416, MediaDecoderStateMachine #1] WARNING: 1ecca2b8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 2416, MediaDecoderStateMachine #1] WARNING: 1ecca2b8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/vF3DwGiQdwtNbsVxkFzRL_iZiNaTmsYTTs4lOxRXugY.js line 1 > eval line 3921 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1642586984739	Marionette	INFO	Stopped listening on port 57855
+[Parent 12388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 12388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 12388, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642586988348	geckodriver	INFO	Listening on 127.0.0.1:57963
+1642586992315	mozrunner::runner	INFO	Running command: "C:\\P1642586994468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57967" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofiDevTools l1642586995100	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: proxy-monitor: started
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 10
+console.log: WebExtensions: proxy-monitor:   http:104.129.2[Child 16448, MediaDecoderStateMachine #1] WARNING: 21a04e86f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16448, MediaDecoderStateMachine #1] WARNING: 21a0a308d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642587123859	Marionette	INFO	Stopped listening on port 57974
+[Parent 15668, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+[Parent 15668, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15668, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15668, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+le.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 13
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 14
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 14
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+DevTools listening on ws://localhost:57967/devtools/browser/f66f4a70-6c88-49a3-af8a-168b174f8984
+1642586997781	Marionette	INFO	Listening on port 57992
+console.log: WebExtensions: proxy-monitor: stopped
+console.log: WebExtensions: proxy-monitor: started
+1642586998172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 18
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 18
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 19
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 19
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 20
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 20
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 14 status 200 tls false for https://incoming.telemetry.mozilla.org/submit/firefox-desktop/deletion-request/1/0ef4634d-8228-493c-b4a6-c3b6c98044ae
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 33
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 33
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 38
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 38
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 18 status 200 tls false for https://tracking-protection.cdn.mozilla.net/ads-track-digest256/1633028676
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 39
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 39
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 42
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 42
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 51
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 51
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 39 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-track-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 56
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 56
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 57
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 57
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 60
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 60
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 61
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 61
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 63
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 63
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 70
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 70
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 74
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 74
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 90
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 90
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 91
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 91
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 92
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 92
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 93
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 93
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 94
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 94
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 56 status 200 tls true for https://tracking-protection.cdn.mozilla.net/analytics-track-digest256/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 98
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 98
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 98 status 200 tls true for https://tracking-protection.cdn.mozilla.net/content-track-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 114
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 114
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 114 status 200 tls true for https://tracking-protection.cdn.mozilla.net/mozstd-trackwhite-digest256/1633028676
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 129
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 129
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+[Child 8884, MediaDecoderStateMachine #1] WARNING: 17fce4d0820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: proxy-monitor: request event start rid 129 status 200 tls true for https://tracking-protection.cdn.mozilla.net/google-trackwhite-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 143
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 143
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 1760 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 159
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 159
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 159 status 200 tls true for https://tracking-protection.cdn.mozilla.net/allow-flashallow-digest256/1490633678
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 160
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 160
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 160 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flashallow-digest256/1490633678
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 162
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 162
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 162 status 200 tls true for https://tracking-protection.cdn.mozilla.net/block-flash-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 164
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 164
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 164 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flash-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 165
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 165
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 165 status 200 tls true for https://tracking-protection.cdn.mozilla.net/block-flashsubdoc-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 177
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 177
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 177 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flashsubdoc-digest256/1517935265
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 183
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 183
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 1954 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: proxy-monitor: request event start rid 183 status 200 tls true for https://tracking-protection.cdn.mozilla.net/base-fingerprinting-track-digest256/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 188
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 188
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 188 status 200 tls true for https://tracking-protection.cdn.mozilla.net/base-cryptomining-track-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 190
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 190
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 190 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-facebook-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 191
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 191
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 191 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-linkedin-digest256/1564526481
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 194
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 194
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 194 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-twitter-digest256/1604686195
+[Child 8884, MediaDecoderStateMachine #1] WARNING: 17fcfe89580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642587134236	Marionette	INFO	Stopped listening on port 57992
+console.log: WebExtensions: proxy-monitor: stopped
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230030,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, mes[Child 11636, MediaDecoderStateMachine #1] WARNING: 20b07ee03c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11636, MediaDecoderStateMachine #1] WARNING: 20b075eae40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642587268125	Marionette	INFO	Stopped listening on port 60900
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642587268954	geckodriver	INFO	Listening on 127.0.0.1:60967
+1642587272695	mozrunner::runner	INFO	Running command: "C:\\P1642587275070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60971" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileUjerOR"
+1642587275533	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: proxy-monitor: started
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 8
+console.log: WebExtensions: proxy-monitor:   http:104.129.24[Child 16632, MediaDecoderStateMachine #1] WARNING: 1e80626dc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16632, MediaDecoderStateMachine #1] WARNING: 1e802dab660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642587359064	Marionette	INFO	Stopped listening on port 60978
+Marionette threw an error: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: chrome://remote/content/marionette/cert.js :: allowAllCerts.disable :: line 55"  data: no]
+allowAllCerts.disable@chrome://remote/content/marionette/cert.js:55:23
+destroy@chrome://remote/content/shared/webdriver/Session.jsm:202:19
+GeckoDriver.prototype.deleteSession@chrome://remote/content/marionette/driver.js:2162:25
+GeckoDriver.prototype.quit@chrome://remote/content/marionette/driver.js:2662:8
+despatch@chrome://remote/content/marionette/server.js:306:40
+execute@chrome://remote/content/marionette/server.js:279:16
+onPacket/<@chrome://remote/content/marionette/server.js:252:20
+onPacket@chrome://remote/content/marionette/server.js:253:9
+_onJSONObjectReady/<@chrome://remote/content/marionette/transport.js:500:20
+
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2146: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 4196, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ starting proxyInfo rid 15
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 15
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 16
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 16
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 17
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 17
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 18
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 18
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 8 status 200 tls false for https://shavar.services.mozilla.com/downloads?client=navclient-auto-ffox&appver=95.0&pver=2.2
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 19
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 19
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 10 status 101 tls false for https://push.services.mozilla.com/
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 20
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 20
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 12 status 200 tls false for https://incoming.telemetry.mozilla.org/submit/firefox-desktop/deletion-request/1/2f16a432-cad6-444e-bdef-551bc2007d27
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 37
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 37
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 38
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 38
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 19 status 200 tls true for https://tracking-protection.cdn.mozilla.net/ads-track-digest256/1633028676
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 39
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 39
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 53
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 53
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 54
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 54
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 39 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-track-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 55
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 55
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 57
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 57
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 58
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 58
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 60
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 60
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 68
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 68
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 69
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 69
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 73
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 73
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 74
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 74
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 90
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 90
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 55 status 200 tls true for https://tracking-protection.cdn.mozilla.net/analytics-track-digest256/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 94
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 94
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 96
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 96
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 97
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 97
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 99
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 99
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 94 status 200 tls true for https://tracking-protection.cdn.mozilla.net/content-track-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 108
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 108
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 108 status 200 tls true for https://tracking-protection.cdn.mozilla.net/mozstd-trackwhite-digest256/1633028676
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 138
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 138
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 139
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 139
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+[Child 11676, MediaDecoderStateMachine #1] WARNING: 16a6bfdd200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: proxy-monitor: request event start rid 138 status 200 tls true for https://tracking-protection.cdn.mozilla.net/google-trackwhite-digest256/1604686195
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 6563 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 158
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 158
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 158 status 200 tls true for https://tracking-protection.cdn.mozilla.net/allow-flashallow-digest256/1490633678
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 160
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 160
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 160 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flashallow-digest256/1490633678
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 163
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 163
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 163 status 200 tls true for https://tracking-protection.cdn.mozilla.net/block-flash-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 174
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 174
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 174 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flash-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 179
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 179
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1#inbox line 1 > eval line 4097 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: proxy-monitor: request event start rid 179 status 200 tls true for https://tracking-protection.cdn.mozilla.net/block-flashsubdoc-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 186
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 186
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 186 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flashsubdoc-digest256/1517935265
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 187
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 187
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 187 status 200 tls true for https://tracking-protection.cdn.mozilla.net/base-fingerprinting-track-digest256/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 188
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 188
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 188 status 200 tls true for https://tracking-protection.cdn.mozilla.net/base-cryptomining-track-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 189
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 189
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 189 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-facebook-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 190
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 190
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 190 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-linkedin-digest256/1564526481
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 194
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 194
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 194 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-twitter-digest256/1604686195
+[Child 11676, MediaDecoderStateMachine #1] WARNING: 16a042d4ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: proxy-monitor: stopped
+1642587358240	Marionette	INFO	Stopped listening on port 61012
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 12344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 12344, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1642587359448	geckodriver	INFO	Listening on 127.0.0.1:61191
+1642587363418	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61192" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofilebITlvZ"
+1642587363785	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:61192/devtools/browser/62699aac-19d7-415e-9d93-fa38884a96d9
+1642587365336	Marionette	INFO	Listening on port 61197
+1642587365493	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 4188, MediaDecoderStateMachine #1] WARNING: 1696c6a5f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 4188, MediaDecoderStateMachine #1] WARNING: 16974d98820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642587494122	Marionette	INFO	Stopped listening on port 61197
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 16620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642587494941	geckodriver	INFO	Listening on 127.0.0.1:61273
+1642587498649	mozrunner::runner	INFO	Running command: "C:\\P1642587501777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61277" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofilebPgPKn"
+1642587502238	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: proxy-monitor: started
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 10
+console.log: WebExtensions: proxy-monitor:   http:104.129.2[Child 16660, MediaDecoderStateMachine #1] WARNING: 25b0869f660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 16660, MediaDecoderStateMachine #1] WARNING: 25b11c30040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1642587580274	Marionette	INFO	Stopped listening on port 61283
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+r:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 13
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 13
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+1642587504481	Marionette	INFO	Listening on port 61326
+console.log: WebExtensions: proxy-monitor: stopped
+console.log: WebExtensions: proxy-monitor: started
+1642587504958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 15
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 15
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 18
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 18
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 19
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 19
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 20
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 20
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 15 status 200 tls false for https://incoming.telemetry.mozilla.org/submit/firefox-desktop/deletion-request/1/37f1183b-9df1-44c8-8f92-0e170654958a
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 33
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 33
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 38
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 38
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 18 status 200 tls false for https://tracking-protection.cdn.mozilla.net/ads-track-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 39
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 39
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 44
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 44
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 51
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 51
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 54
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 54
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 55
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 55
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 56
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 56
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 39 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-track-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 57
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 57
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 60
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 60
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 66
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 66
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 71
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 71
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 74
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 74
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 77
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 77
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 94
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 94
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 57 status 200 tls true for https://tracking-protection.cdn.mozilla.net/analytics-track-digest256/95.0/1637183081
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 95
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 95
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 100
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 100
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 95 status 200 tls true for https://tracking-protection.cdn.mozilla.net/content-track-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 107
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 107
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 107 status 200 tls true for https://tracking-protection.cdn.mozilla.net/mozstd-trackwhite-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 130
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 130
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 130 status 200 tls true for https://tracking-protection.cdn.mozilla.net/google-trackwhite-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 140
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 140
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+[Child 6368, MediaDecoderStateMachine #1] WARNING: 16adee9bf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 146
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 146
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 146 status 200 tls true for https://tracking-protection.cdn.mozilla.net/allow-flashallow-digest256/1490633678
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 154
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 154
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 340 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: proxy-monitor: request event start rid 154 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flashallow-digest256/1490633678
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 158
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 158
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 158 status 200 tls true for https://tracking-protection.cdn.mozilla.net/block-flash-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 160
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 160
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 160 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flash-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 163
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 163
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 163 status 200 tls true for https://tracking-protection.cdn.mozilla.net/block-flashsubdoc-digest256/1604686195
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 164
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 164
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 164 status 200 tls true for https://tracking-protection.cdn.mozilla.net/except-flashsubdoc-digest256/1517935265
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 167
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 167
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 167 status 200 tls true for https://tracking-protection.cdn.mozilla.net/base-fingerprinting-track-digest256/95.0/1637183081
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 168
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 168
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 168 status 200 tls true for https://tracking-protection.cdn.mozilla.net/base-cryptomining-track-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 177
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 177
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 177 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-facebook-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 182
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 182
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 182 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-linkedin-digest256/95.0/1637080483
+console.log: WebExtensions: proxy-monitor: starting proxyInfo rid 186
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor: pruned proxyInfo rid 186
+console.log: WebExtensions: proxy-monitor:   http:104.129.249.31:1490
+console.log: WebExtensions: proxy-monitor:   direct::-1
+console.log: WebExtensions: proxy-monitor: request event start rid 186 status 200 tls true for https://tracking-protection.cdn.mozilla.net/social-tracking-protection-twitter-digest256/95.0/1637080483
+[Child 6368, MediaDecoderStateMachine #1] WARNING: 16ae69a7120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: proxy-monitor: stopped
+1642587581175	Marionette	INFO	Stopped listening on port 61326
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 1072, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

@@ -1,0 +1,644 @@
+1641376039794	geckodriver	INFO	Listening on 127.0.0.1:49329
+1641376044858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49330" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileW79vfb"
+1641376045208	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+DevTools listening on ws://localhost:49330/devtools/browser/7cf32b64-c63d-418f-b3af-a421f351949e
+1641376046652	Marionette	INFO	Listening on port 49336
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1641376046912	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 1293 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1641376068558	Marionette	INFO	Stopped listening on port 49336
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641376093815	geckodriver	INFO	Listening on 127.0.0.1:49390
+1641376096917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49391" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofilehhAGqK"
+1641376097211	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofilehhAGqK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49391/devtools/browser/21e77aa2-88e5-4421-b5c5-1cec6e6ca480
+1641376099098	Marionette	INFO	Listening on port 49398
+1641376099594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 6316 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641376108852	Marionette	INFO	Stopped listening on port 49398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641376886224	geckodriver	INFO	Listening on 127.0.0.1:53937
+1641376891431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53938" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofilemY3O51"
+1641376891863	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+DevTools listening on ws://localhost:53938/devtools/browser/034c60ee-ad4a-4617-83b2-3cbf22636528
+1641376893529	Marionette	INFO	Listening on port 53958
+1641376893629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already rJavaScript warning: https://acJavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 5442 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please1641376920666	Marionette	INFO	Stopped listening on port 53949
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+will be lost
+
+1641377018241	geckodriver	INFO	Listening on 127.0.0.1:54257
+1641377023354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54258" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofilejTqOBv"
+1641377023807	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.DevTools listening on ws://localhost:54262/devtools/browser/5d5fc516-f2db-456f-9aa9-3ac4f99f61DevTools listening on ws://localhost:54258/devtools/browser/3d8c03ab-5612-4fd0-8fc3-4e9667268dfc
+1641377025687	Marionette	INFO	Listening on port 5JavaScript warning: https://www.google.com/js/bg/4Sfc45HFswufgCf8fQCX22Ys6cavju9jIH_-ShQytV0.js line 1 > eval line 3339 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641377044815	Marionette	INFO	Stopped listening on port 54269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [P1641377045334	Marionette	INFO	Stopped listening on port 54273
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en.-jhTFG51hYg.es5.O/am=gKv8X8JHAAQcj24HfjYYCgcOwLA4EkAAhFhkrcQa3uAk-x9Ef0gA-rQYgwFwzAPQcQjGBwYAAAAAAAAAAAAAAAAAAAB2gRSD/d=1/im=1/dg=0/br=1/wt=1/rs=AHGWq9CM8ZJHBG-AAlllYePcGKJfx01tbQ/cb=loaded_0/m=b, line 941: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641377193531	geckodriver	INFO	Listening on 127.0.0.1:54419
+1641377198806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54420" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileIDpedl"
+1641377199187	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+DevTools listening on ws://localhost:54420/devtools/browser/37534bea-5635-4b78-860c-dc26fd7a30af
+1641377200727	Marionette	INFO	Listening on port 5JavaScript warning: https://www.google.com/js/bg/4Sfc45HFswufgCf8fQCX22Ys6cavju9jIH_-ShQytV0.js line 1 > eval line 6390 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641377215084	Marionette	INFO	Stopped listening on port 54430
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641377289622	geckodriver	INFO	Listening on 127.0.0.1:54586
+1641377294674	mozrunner::runner	INFO	Running command: "C:\\P1641377296196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54592" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofilekBibEc"
+1641377296549	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:54592/devtools/browser/59757c94-f7cc-4f0d-86ce-f072923c0ffd
+1641377298276	Marionette	INFO	Listening on port 54616
+1641377298365	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b_8rsBg2pSAE7OSEuXeXkmKAJRzK7XLbOE8Wp2RNR2Q.js line 1 > eval line 6029 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 15468, MediaDecoderStateMachine #1] WARNING: 1a9be149740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15468, MediaDecoderStateMachine #1] WARNING: 1a9ba55b580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641377329414	Marionette	INFO	Stopped listening on port 54616
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, m1641377333425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54749" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofile3pNFnY"
+1641377333846	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+DevTools listening on ws://localhost:54749/devtools/browser/cf73f9be-678b-4100-a964-f507502df53d
+1641377335654	Marionette	INFO	Listening on port 54762
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: has already ran once and saw panel, exit.
+1641377337184	Marionette	INFO	Stopped listening on port 54762
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/BackgroundPageThumbs.jsm, line 718: TypeError: captureCallback is not a function
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641377339018	geckodriver	INFO	Listening on 127.0.0.1:54794
+1641377344042	mozrunner::runner	INFO	Running command: "C:\\P1641377345578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54800" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileIczFfT"
+1641377345926	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:54800/devtools/browser/d47978c6-be09-45b4-97a1-672a53f2ecd3
+1641377347823	Marionette	INFO	Listening on port 54824
+1641377348221	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b_8rsBg2pSAE7OSEuXeXkmKAJRzK7XLbOE8Wp2RNR2Q.js line 1 > eval line 4714 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 15024, MediaDecoderStateMachine #1] WARNING: 29d4a6d2580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15024, MediaDecoderStateMachine #1] WARNING: 29d497abc80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15024, MediaDecoderStateMachine #1] WARNING: 29d535542e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15024, MediaDecoderStateMachine #1] WARNING: 29d57f744a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b_8rsBg2pSAE7OSEuXeXkmKAJRzK7XLbOE8Wp2RNR2Q.js line 1 > eval line 1712 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1641377526753	Marionette	INFO	Stopped listening on port 54824
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+0111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641377604583	geckodriver	INFO	Listening on 127.0.0.1:54964
+1641377609647	mozrunner::runner	INFO	Running command: "C:\\P1641377611151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54971" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileu9Y7bA"
+1641377611533	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:54971/devtools/browser/474da487-8c31-4c8a-83f9-a3c243ddc0ad
+1641377612968	Marionette	INFO	Listening on port 54993
+1641377613212	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 18188, MediaDecoderStateMachine #1] WARNING: 240e9588580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 18188, MediaDecoderStateMachine #1] WARNING: 240ef455c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 18188, MediaDecoderStateMachine #1] WARNING: 240e7097660 Could not set cubeb[Child 10752, MediaDecoderStateMachine #1] WARNING: 25b07f9c900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b_8rsBg2pSAE7OSEuXeXkmKAJRzK7XLbOE8Wp2RNR2Q.js line 1 > eval line 4625 > eval line 1 > eval, line 1: WEBGL_debugconsole.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1641378124675	Marionette	INFO	Stopped listening on port 54993
+
+###!!! [Child][RunMessage] Error: JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1641378125099	Marionette	INFO	Stopped listening on port 54976
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641378130337	geckodriver	INFO	Listening on 127.0.0.1:55279
+1641378135623	mozrunner::runner	INFO	Running command: "C:\\P1641378136875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55287" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozproficonsole.lo1641378137242	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:55287/devtools/browser/cba5600e-73fe-47d8-8688-52707351f434
+1641378138891	Marionette	INFO	Listening on port 55300
+1641378138936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b_8rsBg2pSAE7OSEuXeXkmKAJRzK7XLbOE8Wp2RNR2Q.js line 1 > eval line 5584 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11056, MediaDecoderStateMachine #1] WARNING: 16e56e8d660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11056, MediaDecoderStateMachine #1] WARNING: 16e56e8d120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b_8rsBg2pSAE7OSEuXeXkmKAJRzK7XLbOE8Wp2RNR2Q.js line 1 > eval line 7030 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Chi[Child 2432, MediaDecoderStateMachine #1] WARNING: 221f9662660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:361641378297543	Marionette	INFO	Stopped listening on port 55300
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMy1641378299452	Marionette	INFO	Stopped listening on port 55293
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641394187665	geckodriver	INFO	Listening on 127.0.0.1:58965
+1641394192839	mozrunner::runner	INFO	Running command: "C:\\P1641394194241	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58971" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozproficonsole.lo1641394194562	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:58971/devtools/browser/c8ab3a47-1a79-41a1-a89b-0077d1212cac
+1641394196156	Marionette	INFO	Listening on port 58983
+1641394196299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/b_8rsBg2pSAE7OSEuXeXkmKAJRzK7XLbOE8Wp2RNR2Q.js line 1 > eval line 5112 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 11612, MediaDecoderStateMachine #1] WARNING: 205c2669120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 11612, MediaDecoderStateMachine #1] WARNING: 205cb50bac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641394373826	Marionette	INFO	Stopped listening on port 58983
+[Parent 17736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+esyndication.com/bg/b_8rsBg2pSAE7OSEuXeXkmKAJRzK7XLbOE8Wp2RNR2Q.js line 1 > eval line 2468 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 16928, MediaDecoderStateMachine #1] WARNING: 16be1e5eba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641394345790	Marionette	INFO	Stopped listening on port 58978
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641394375869	geckodriver	INFO	Listening on 127.0.0.1:59156
+1641394441633	geckodriver	INFO	Listening on 127.0.0.1:59176
+1641394446594	mozrunner::runner	INFO	Running command: "C:\\P1641394448147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59182" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileHl29St"
+1641394448486	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:59182/devtools/browser/e8f890f2-e8f4-413e-9075-becf0aea8e8c
+1641394450267	Marionette	INFO	Listening on port 59203
+1641394450314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 1472, MediaDecoderStateMachine #1] WARNING: 1ea862fc3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641394515941	Marionette	INFO	Stopped listening on port 59203
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ile /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641394517022	Marionette	INFO	Stopped listening on port 59188
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641783075031	geckodriver	INFO	Listening on 127.0.0.1:58807
+1641783080156	mozrunner::runner	INFO	Running command: "C:\\P1641783081561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58814" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozproficonsole.log: WebExtensions: reset-default-search: starting.DevTools listening on ws://localhost:58814/devtools/browser/3cedfff3-d564-461d-b5a1-75ccc5ab74ab
+1641783083627	Marionette	INFO	Listening on port 58826
+1641783083747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641783208066	Marionette	INFO	Stopped listening on port 58826
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+xtGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641783376513	geckodriver	INFO	Listening on 127.0.0.1:50661
+1641783381488	mozrunner::runner	INFO	Running command: "C:\\P1641783383047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50668" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileAUVfB7"
+1641783383421	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:50668/devtools/browser/042944e8-6254-450d-bf7e-50c4e2a539cc
+1641783385214	Marionette	INFO	Listening on port 50692
+1641783385711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641783466123	Marionette	INFO	Stopped listening on port 50692
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+c:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641783546981	geckodriver	INFO	Listening on 127.0.0.1:50920
+1641783552064	mozrunner::runner	INFO	Running command: "C:\\P1641783553518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50927" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileQtyVJd"
+1641783553993	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:50927/devtools/browser/2b05ab13-7c5f-4574-9b06-034a87ee3684
+1641783556078	Marionette	INFO	Listening on port 50948
+1641783556209	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641783610463	Marionette	INFO	Stopped listening on port 50948
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideServi1641783612585	Marionette	INFO	Stopped listening on port 50933
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641784370584	geckodriver	INFO	Listening on 127.0.0.1:55919
+1641784375712	mozrunner::runner	INFO	Running command: "C:\\P1641784377139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55927" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofile9xHHLs"
+1641784377579	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:55927/devtools/browser/7fb59da7-0cb9-43b2-a72e-348346bbffda
+1641784379210	Marionette	INFO	Listening on port 55949
+1641784379307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641784513015	Marionette	INFO	Stopped listening on port 55949
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot[Parent 3052, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+m Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56124" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileKTpe9Y"
+1641784434163	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56124/devtools/browser/1e4665f1-5a4e-4582-8f4e-13298e3a4fc1
+1641784436233	Marionette	INFO	Listening on port 56149
+1641784436386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641784513183	Marionette	INFO	Stopped listening on port 56149
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 18128, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ionette	INFO	Stopped listening on port 56130
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nt	WARN	TLS certificate errors will be ignored for this session
+1641784512780	Marionette	INFO	Stopped listening on port 56329
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 17160, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1641784524388	geckodriver	INFO	Listening on 127.0.0.1:56507
+1641784529558	mozrunner::runner	INFO	Running command: "C:\\P1641784531015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56514" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofile4QsgbL"
+1641784531382	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56514/devtools/browser/816998b4-2514-45e8-af0e-0a48881ad7c2
+1641784533257	Marionette	INFO	Listening on port 56536
+1641784533689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641784593269	Marionette	INFO	Stopped listening on port 56536
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersI1641784594084	Marionette	INFO	Stopped listening on port 56521
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+Marionette threw an error: TypeError: browsingContext.currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:326:29
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2146: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641784740503	geckodriver	INFO	Listening on 127.0.0.1:56796
+1641784745501	mozrunner::runner	INFO	Running command: "C:\\P1641784747027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56804" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofilehT7S0p"
+1641784747454	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:56804/devtools/browser/a7dee4c8-6143-441a-b56d-844a44132171
+1641784749149	Marionette	INFO	Listening on port 56830
+1641784749180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 7900, MediaDecoderStateMachine #1] WARNING: 15a46704660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+1641784815906	Marionette	INFO	Stopped listening on port 56830
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, message1641784830242	Marionette	INFO	Stopped listening on port 56810
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641784979814	geckodriver	INFO	Listening on 127.0.0.1:57167
+1641784984853	mozrunner::runner	INFO	Running command: "C:\\P1641784986450	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57174" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileSUD1gb"
+1641784986818	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:57174/devtools/browser/d6b4cec7-aa2e-4135-8091-986b14fd1499
+1641784988573	Marionette	INFO	Listening on port 57200
+1641784988613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 6744, MediaDecoderStateMachine #1] WARNING: 1d8548f84a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641785004110	Marionette	INFO	Stopped listening on port 57200
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0xconsole.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages wil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+l be lost
+
+1641787934023	geckodriver	INFO	Listening on 127.0.0.1:49438
+1641787939124	mozrunner::runner	INFO	Running command: "C:\\P1641787940902	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49444" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofilevZhnVL"
+1641787941455	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:49444/devtools/browser/319efc27-4766-434d-b71b-41100380fdb9
+1641787943284	Marionette	INFO	Listening on port 49469
+1641787943569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 14400, MediaDecoderStateMachine #1] WARNING: 2a4e4695200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641788017395	Marionette	INFO	Stopped listening on port 49469
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d listening on port 49450
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641788019680	geckodriver	INFO	Listening on 127.0.0.1:49603
+1641788024734	mozrunner::runner	INFO	Running command: "C:\\P1641788026269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49609" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofilexoB5SA"
+1641788026690	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:49609/devtools/browser/fdc412b3-027f-48ec-9a1f-f0623cb1673f
+1641788028383	Marionette	INFO	Listening on port 49633
+1641788028435	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 6316, MediaDecoderStateMachine #1] WARNING: 1d7434a9820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641788078370	Marionette	INFO	Stopped listening on port 49633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2284, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+##
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641788097077	geckodriver	INFO	Listening on 127.0.0.1:49770
+1641788102092	mozrunner::runner	INFO	Running command: "C:\\P1641788103669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49776" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofilewgZHA2"
+1641788104050	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:49776/devtools/browser/b1749e79-513e-4c7b-84f4-53354f11d389
+1641788105660	Marionette	INFO	Listening on port 49803
+1641788105717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 2424, MediaDecoderStateMachine #1] WARNING: 2880a585580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641788156152	Marionette	INFO	Stopped listening on port 49803
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel cl
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+osing: too late to send/recv, messages will be lost
+
+1641788168569	geckodriver	INFO	Listening on 127.0.0.1:49941
+1641788173572	mozrunner::runner	INFO	Running command: "C:\\P1641788175179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49947" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofile8Kk2uL"
+1641788175580	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:49947/devtools/browser/84fccf8e-a50b-4814-9cac-829b283657b7
+1641788177211	Marionette	INFO	Listening on port 49974
+1641788177331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 8108, MediaDecoderStateMachine #1] WARNING: 1a822e0a580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641788262132	Marionette	INFO	Stopped listening on port 49974
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641788262059	Marionette	INFO	Stopped listening on port 49953
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641804651472	geckodriver	INFO	Listening on 127.0.0.1:62475
+1641804656745	mozrunner::runner	INFO	Running command: "C:\\P1641804658103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62485" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozproficonsole.log: WebExtensions: reset-default-search: starting.DevTools listening on ws://localhost:62485/devtools/browser/89bb0692-2814-4089-8280-c63beeb9c77a
+1641804660171	Marionette	INFO	Listening on port 62497
+1641804660259	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 17024, MediaDecoderStateMachine #1] WARNING: 1faa9c584a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641804670194	Marionette	INFO	Stopped listening on port 62497
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+curityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641804678266	geckodriver	INFO	Listening on 127.0.0.1:53956
+1641804683386	mozrunner::runner	INFO	Running command: "C:\\P1641804684862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53964" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofile3C1FEd"
+1641804685332	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:53964/devtools/browser/e62e0852-a983-46a3-970e-a88571b1d2f8
+1641804687088	Marionette	INFO	Listening on port 53977
+1641804687524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 15444, MediaDecoderStateMachine #1] WARNING: 24c6505c660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15444, MediaDecoderStateMachine #1] WARNING: 24c6ff92820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641804955956	Marionette	INFO	Stopped listening on port 53977
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+o fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641804959401	geckodriver	INFO	Listening on 127.0.0.1:54286
+1641804964411	mozrunner::runner	INFO	Running command: "C:\\P1641804965959	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54293" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileYxK44F"
+1641804966337	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:54293/devtools/browser/7a9deada-3d5d-4f5e-b436-314ed02aca2a
+1641804968008	Marionette	INFO	Listening on port 54320
+1641804968113	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 884, MediaDecoderStateMachine #1] WARNING: 1af3b254580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 884, MediaDecoderStateMachine #1] WARNING: 1af47abe040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641805231277	Marionette	INFO	Stopped listening on port 54320
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pped listening on port 54300
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641805235883	geckodriver	INFO	Listening on 127.0.0.1:54593
+1641805240961	mozrunner::runner	INFO	Running command: "C:\\P1641805242448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54600" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozprofileIgw7qB"
+1641805242860	Marionette	INFO	Marionette enabled
+DevTools listening on ws://localhost:54600/devtools/browser/f9321c1a-b38c-40be-8bf2-1038d5e67e68
+1641805244564	Marionette	INFO	Listening on port 54626
+1641805244608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 12712, MediaDecoderStateMachine #1] WARNING: 2ad09151ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12712, MediaDecoderStateMachine #1] WARNING: 2ad796c3900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641805426808	Marionette	INFO	Stopped listening on port 54626
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: chrome://remote/content/marionette/driver.js, line 2146: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641805427221	geckodriver::marionette	ERROR	Failed to close browser connection: An existing connection was forcibly closed by the remote host. (os error 10054)
+1641805957135	geckodriver	INFO	Listening on 127.0.0.1:53899
+1641805962608	mozrunner::runner	INFO	Running command: "C:\\P1641805963410	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53907" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozproficonsole.log: WebExtensions: reset-default-search: starting.DevTools listening on ws://localhost:53907/devtools/browser/fac77fc8-762b-4417-bb5e-cbee08776c45
+1641805965222	Marionette	INFO	Listening on port 53922
+1641805965470	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 20580, MediaDecoderStateMachine #1] WARNING: 2669a233740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 20580, MediaDecoderStateMachine #1] WARNING: 266a174fe40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641806157388	Marionette	INFO	Stopped listening on port 53922
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39007A,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641866905426	geckodriver	INFO	Listening on 127.0.0.1:59493
+1641866911361	mozrunner::runner	INFO	Running command: "C:\\P1641866911496	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59498" "-no-remote" "-profile" "C:\1641866912726	Marionette	INFO	Marionette enabled
+console.log: WebExtensions: reset-default-search: starting.DevTools listening on ws://localhost:59498/devtools/browser/fe7a9751-ea39-4ed2-9728-a2f8dc3bc682
+1641866915429	Marionette	INFO	Listening on port 59507
+1641866916085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://accounts.google.com/ServiceLogin?service=mail&passive=1209600&osid=1&continue=https://mail.google.com/mail/u/0/&followup=https://mail.google.com/mail/u/0/&emr=1 line 1 > eval line 3685 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[Child 14424, MediaDecoderStateMachine #1] WARNING: 29e1093ed60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641866935020	Marionette	INFO	Stopped listening on port 59507
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 12092, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+[Parent 4216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641866971506	geckodriver	INFO	Listening on 127.0.0.1:59650
+1641866977312	mozrunner::runner	INFO	Running command: "C:\\P1641866977992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59656" "-no-remote" "-profile" "C:\\Users\\trung\\AppData\\Local\\Temp\\rust_mozproficonsole.log: WebExtensions: reset-default-search: starting.DevTools listening on ws://localhost:59656/devtools/browser/05fd177b-226a-43c1-8de2-b49c46781638
+1641866980250	Marionette	INFO	Listening on port 59669
+1641866980837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[Child 9732, MediaDecoderStateMachine #1] WARNING: 2125846f4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1641867000379	Marionette	INFO	Stopped listening on port 59669
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 12044, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+59664
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
